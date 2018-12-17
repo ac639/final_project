@@ -134,15 +134,18 @@ body {
   background-color: gainsboro;
 }
 
-text-center {
+.text-center {
   text-align: center;
 }
 
-text-right {
+.text-right {
   text-align: right;
 }
 
-
+.homecardimg {
+  width: 300px;
+  height: 180px;
+}
 
 
 
