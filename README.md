@@ -1,5 +1,5 @@
 
-# Template page cloned from Professor Williams 
+# Repo cloned from Professor Williams 
 
 For use to get the first page and navbar for final project
 
